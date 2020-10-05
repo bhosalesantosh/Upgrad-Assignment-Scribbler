@@ -6,7 +6,6 @@
     margin: 10px;
     border-radius: 15px;
     overflow: auto;
-    
 }
     
 .post-left {
@@ -80,7 +79,6 @@ body {
     cursor: pointer;
 }
 
-/* The Modal (background) */
 .trash-modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -121,7 +119,6 @@ body {
     cursor: pointer;
     width: 45%;
 }
-
 .trash-modal-button-yes {
     background-color:  #f44336; /* Red */
     border: none;
